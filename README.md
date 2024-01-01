@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hagag</h1>
 <h3 align="center">CS & AI Student at Cairo University | Flutter Aficionado | Web & Backend Explorer | Code Enthusiast | Eager to Innovate and Learn 🚀</h3>
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/images/afef36e455867418f4871026205e42b6/tenor.gif">
+<img align="right" alt="Coding" width="340" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/ahmedmaher1919" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmaher1919?logo=twitter&style=for-the-badge" alt="ahmedmaher1919" /></a> </p>
 
