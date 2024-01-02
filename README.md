@@ -1,6 +1,4 @@
-<a href="https://hagag1919" target="_blank">
-  <img src="https://wallpapercave.com/wp/wp8741231.jpg" alt="MasterHead" width="1000" height="200">
-</a>
+
 <h1 align="center">Hi 👋, I'm Ahmed Hagag</h1>
 <h3 align="center">CS & AI Student at Cairo University | Flutter Aficionado | Web & Backend Explorer | Code Enthusiast | Eager to Innovate and Learn 🚀</h3>
 <img align="right" alt="Coding" width="340" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
