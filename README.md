@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedmaher1919" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmaher1919?logo=twitter&style=for-the-badge" alt="ahmedmaher1919" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **MoblieDevelopment_&_Backend**
 
 - 📫 How to reach me **hagag1725@gmail.com**
 
