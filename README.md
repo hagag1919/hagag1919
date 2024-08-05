@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **MoblieDevelopment_&_Backend**
+- 💬 Ask me about **MoblieDevelopment & Backend**
 
 - 📫 How to reach me **hagag1725@gmail.com**
 
